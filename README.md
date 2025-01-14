@@ -5,8 +5,8 @@
 
 
 ## 📊 Contributions
-
 <picture>
-  <img alt="github-snake" src="[assets/github-contribution-grid-snake.svg](https://github.com/XiyangTao/XiyangTao/blob/output/github-contribution-grid-snake.svg)" />
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
 </picture>
-
