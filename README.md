@@ -7,4 +7,4 @@
 
 ## 📊 Contributions
 
-![snake.gif](https://raw.githubusercontent.com/XiyangTao/XiyangTao/output/github-contribution-grid-snake.svg)
+![snake.gif](https://raw.githubusercontent.com/XiyangTao/XiyangTao/output/github-contribution-grid-snake.svg?v=2)
